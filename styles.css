@@ -1,6 +1,6 @@
 .topSection{
     background-image: url('assets/gradient-violet-bg.jpg');
-     background-size: cover;
+    background-size: cover;
     background-repeat: no-repeat;
     height: 99vh;
     padding-top: 66px;
@@ -8,7 +8,7 @@
 
 .laptopImageSection{
     text-align: center;
-    /* margin-top: 50px;  */
+    
 }
 .laptopImage{
     width: 600px;
@@ -106,7 +106,6 @@
 }
 
 .middleSection{
-    /* height: 60vh; */
     background-color: white;
     padding: 75px;
     margin-bottom: 50px;  
@@ -156,8 +155,18 @@
 
 }
 
+.watchWhatever{
+    font-size: 20px;
+    font-family: Roboto, sans-serif;
+    
+}
+
+.watchWhatever2{
+    font-size: 20px;
+    font-family: Roboto, sans-serif;
+    
+}
 .bottomSection{
-    /* height: 70vh; */
     background-image: url('assets/green-bg.jpg');
     background-size: cover;
    background-repeat: no-repeat;
